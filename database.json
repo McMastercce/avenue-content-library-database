@@ -97,6 +97,21 @@
    {
       "id":"19",
       "name":"Support",
-      "markup":"<p>Additional <a href=\"https://www.dropbox.com/s/2ivv8syqebpqc4p/SUPPORT.pdf?dl=0\" target=\"_blank\">Instructor <strong>Support</strong> Resources</a>.</p> "
+      "markup":"<p>Additional <a href=\"https://www.dropbox.com/s/2ivv8syqebpqc4p/SUPPORT.pdf?dl=0\" target=\"_blank\">Instructor <strong>Support</strong> Resources</a>.</p>"
+   },
+   {
+      "id":"20",
+      "name":"Wrap Up",
+      "markup":"<h1>Wrap Up</h1>"
+   },
+   {
+      "id":"21",
+      "name":"Final Grades",
+      "markup":"<h2>Final Grades</h2> <p>You are required to submit final calculated grades at the end of the course. Choose <strong>one</strong> of the following options below based on your course structure (if you are unsure, contact the Program Associate).</p> <ul> <li>Option A: <a href=\"https://www.dropbox.com/s/awp05j13n411y6r/loading-avenue-to-learn-grades-in-mosaic.pdf?dl=0\" target=\"_blank\">Loading Avenue to Learn Grades in Mosaic</a></li> <li>Option B: <a href=\"https://www.dropbox.com/s/61x66vx13bfr2a4/manually-entering-grades-in-mosaic.pdf?dl=0\" target=\"_blank\">Manually Entering Grades in Mosaic</a></li> </ul>"
+   },
+   {
+      "id":"22",
+      "name":"Reflection",
+      "markup":"<h2>Reflection</h2> <p>Reflect on your practice and note what worked during the delivery of the course. If there are any changes that could make the facilitation more effective for future course deliveries, please share your ideas with the Program Manager.</p>"
    }
 ]
