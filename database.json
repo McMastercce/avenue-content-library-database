@@ -37,7 +37,7 @@
    {
       "id":"7",
       "name":"Discussions note to LST",
-      "markup":"<p style=\"border-style: solid; border-color:#990000; padding: 10px;\"><span style=\"color: #ea1720;\"><strong>Note to integrator:</strong></span> There are three options available for <strong>Discussions</strong>: individual, threaded groups, and separate topics. Remove the ones that don't apply. Delete this note when complete.</p>"
+      "markup":"<p style=\"border-style: solid; border-color:#990000; padding: 10px;\"><span style=\"color: #ea1720;\"><strong>Note to integrator:</strong></span> There are three options available for <strong>Discussions</strong>: individual, threaded groups, and separate topics. Remove the ones that don't apply as well as this note.</p>"
    },
    {
       "id":"8",
