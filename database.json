@@ -12,7 +12,7 @@
    {
       "id":"2",
       "name":"Announcements",
-      "markup":"<h1>Heading one</h1><h2>Announcements</h2><ul><li><a href=\"https://www.dropbox.com/s/qnf05m9li5k1p3u/ANNOUNCEMENTS-update-the-welcome-announcement.pdf?dl=0\" target=\"_blank\">Update the Welcome Announcement</a></li></ul>"
+      "markup":"<h2>Announcements</h2><ul><li><a href=\"https://www.dropbox.com/s/qnf05m9li5k1p3u/ANNOUNCEMENTS-update-the-welcome-announcement.pdf?dl=0\" target=\"_blank\">Update the Welcome Announcement</a></li></ul>"
    },
    {
       "id":"3",
