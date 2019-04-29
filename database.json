@@ -36,61 +36,66 @@
    },
    {
       "id":"7",
+      "name":"Discussions note to LST",
+      "markup":"<p style=\"border-style: solid; padding: 10px;\"><span style=\"color: #ea1720;\"><strong>Note to integrator:</strong></span> There are three options available for <strong>Discussions</strong>: individual, threaded groups, and separate topics. Remove the ones that don't apply. Delete this note when complete.</p>"
+   },
+   {
+      "id":"8",
       "name":"Discussions - No groups",
       "markup":"<h2>Discussions</h2> <ul> <li><a href=\"https://www.dropbox.com/s/b79d3hpe14rxpef/DISCUSSIONS-make-sure-all-discussions-are-present.pdf?dl=0\" target=\"_blank\">Make Sure All Discussions Are Present</a></li> <li><a href=\"https://www.dropbox.com/s/2yyw3hwxjqy9970/DISCUSSIONS-update-discussion-availability-dates.pdf?dl=0\" target=\"_blank\">Update Discussion Availability Dates</a></li> </ul>"
    },   
    {
-      "id":"8",
+      "id":"9",
       "name":"Discussions - Threaded groups",
       "markup":"<h2>Discussions - Threaded groups</h2> <ul> <li><a href=\"https://www.dropbox.com/s/b79d3hpe14rxpef/DISCUSSIONS-make-sure-all-discussions-are-present.pdf?dl=0\" target=\"_blank\">Make Sure All Discussions Are Present</a></li> <li><a href=\"https://www.dropbox.com/s/2yyw3hwxjqy9970/DISCUSSIONS-update-discussion-availability-dates.pdf?dl=0\" target=\"_blank\">Update Discussion Availability Dates</a></li> <li><a href=\"https://www.dropbox.com/s/w3utnzjemgm8tvz/DISCUSSIONS-check-group-discussion-associations-GROUP-TOPIC.pdf?dl=0\" target=\"_blank\">Check Group Discussion Associations GROUP TOPIC</a></li> </ul>"
    },
    {
-      "id":"9",
+      "id":"10",
       "name":"Discussions - Separate topics",
       "markup":"<h2>Discussions - Separate topics</h2> <ul> <li><a href=\"https://www.dropbox.com/s/b79d3hpe14rxpef/DISCUSSIONS-make-sure-all-discussions-are-present.pdf?dl=0\" target=\"_blank\">Make Sure All Discussions Are Present</a></li> <li><a href=\"https://www.dropbox.com/s/2yyw3hwxjqy9970/DISCUSSIONS-update-discussion-availability-dates.pdf?dl=0\" target=\"_blank\">Update Discussion Availability Dates</a></li> <li><a href=\"https://www.dropbox.com/s/vqd4fr3up0l1pbq/DISCUSSIONS-check-group-discussion-associations.pdf?dl=0\" target=\"_blank\">Check Group Discussion Associations SEPARATE TOPICS</a></li> </ul>"
    },
    {
-      "id":"10",
+      "id":"11",
       "name":"Quizzes",
       "markup":"<h2>Quizzes</h2> <ul> <li><a href=\"https://www.dropbox.com/s/zae1tcp0qmzj3t5/QUIZZES-update-quiz-availability-dates.pdf?dl=0\" target=\"_blank\">Update Quiz Availability Dates</a></li> <li><a href=\"https://www.dropbox.com/s/njray4gzhj5fyiw/QUIZZES-update-additional-submission-view-dates.pdf?dl=0\" target=\"_blank\">Update Additional Submission View Dates</a> &ndash; <span style=\"background-color: yellow; color: inherit; font-weight: bold;\">VERY IMPORTANT</span>: There is an additional submission view in each quiz that releases the correct answers. If the additional submission view in each quiz is not set correctly for the current term, students will be given the correct answers immediately following their first quiz attempt, prior to the quiz deadline. <strong>Set the additional submission view date in each quiz for the Monday following the quiz deadline, e.g., if the quiz is due March 11 at 11:59 PM, set the additional view for March 12 at 12:01 AM.</strong></li> </ul>"
    },
    {
-      "id":"11",
+      "id":"12",
       "name":"Calendar",
       "markup":"<h2>Calendar</h2> <ul> <li><a href=\"https://www.dropbox.com/s/qc0oa8f9f7hcgpq/CALENDAR-add-manual-calendar-entries.pdf?dl=0\" target=\"_blank\">Add Manual Calendar Entries</a></li> </ul>"
    },
    {
-      "id":"12",
+      "id":"13",
       "name":"Tracking sheet",
       "markup":"<h2>Tracking Sheet</h2> <p>If you would like any changes or updates to be reflected in the Master Shell of the course and, therefore, the next course offering, please use the Tracking Sheet to indicate those changes.</p> <p>To access the Tracking Sheet, go to the <em>Course Updates Track Changes</em> module in <strong>Content</strong> and click <strong>Tracking Sheet Information</strong>.</p> <p>Please be sure to <strong>submit your Tracking Sheet on time</strong>.</p>"
    },
    {
-      "id":"13",
+      "id":"14",
       "name":"Course Facilitation",
       "markup":"<h1>Course Facilitation</h1> <p>During the course, make use of the following facilitation resources:</p> "
    },
    {
-      "id":"14",
+      "id":"15",
       "name":"Grading",
       "markup":"<h2>Grading</h2> <ul> <li><a href=\"https://www.dropbox.com/s/yg1sd9rqnhmk37w/GRADING-entering-grades.pdf?dl=0\" target=\"_blank\">Entering Grades</a></li> <li><a href=\"https://www.dropbox.com/s/d73anxtutk1r5ry/GRADING-grading-assignments.pdf?dl=0\" target=\"_blank\">Grading Assignments</a></li> <li><a href=\"https://www.dropbox.com/s/xw1gkgh9xn24fdd/GRADING-grading-discussions.pdf?dl=0\" target=\"_blank\">Grading Discussions</a></li> </ul>"
    },
    {
-      "id":"15",
+      "id":"16",
       "name":"Video Notes",
       "markup":"<h2>Video Notes</h2> <p>A video note is a short video clip of yourself that can be shared with students in Avenue to Learn. Video notes are created using your computer&rsquo;s webcam and Avenue to Learn&rsquo;s built-in media recording tool. A video note can be added using any HTML editor with the <strong>Insert Stuff </strong>button &ndash; <img src=\"https://www.dropbox.com/s/w2raeyodi1w1ywq/insert-stuff-button.png?raw=1\" alt=\"insert stuff\" />.</p> <p>Common places video notes are supported include Announcements, Assignment feedback, and Discussions.</p> <ul> <li><a href=\"https://www.dropbox.com/s/dfcac95uxhajgt1/VIDEO-NOTES-creating-a-video-note.pdf?dl=0\" target=\"_blank\">Creating a Video Note</a></li> </ul>"
    },
    {
-      "id":"16",
+      "id":"17",
       "name":"Class Progress",
       "markup":"<h2>Class Progress</h2> <p>Use the Class Progress tool to view a summary of each student’s grades, completion of learning objectives, access of content topics, participation in discussions, assignment submissions, quiz submissions, checklist completion, survey responses, and login history.</p> <ul> <li><a href=\"https://www.dropbox.com/s/b4x88y1cdntkr6q/CLASS-PROGRESS-checking-class-progress.pdf?dl=0\" target=\"_blank\">Checking Class Progress</a></li> </ul>"
    },
    {
-      "id":"17",
+      "id":"18",
       "name":"Chat",
       "markup":"<h2>Chat</h2> <p>The Avenue to Learn Chat tool is a <strong>text-based</strong>, <strong>synchronous</strong> communication tool. <strong>General chats</strong> exist only within the course shell in which they are created, and are available to all users in the course shell, regardless of role.</p> <p>Communication within a general chat is automatically recorded and can be accessed by all users in the course, whether they have participated in the chat session or not. <strong>Only users with instructor access can create and delete general chats</strong>.</p> <ul> <li><a href=\"https://www.dropbox.com/s/qw2pty2wznq2har/CHAT-using-the-chat-tool.pdf?dl=0\" target=\"_blank\">Using the Chat Tool</a></li> </ul>"
    },
    {
-      "id":"18",
+      "id":"19",
       "name":"Support",
       "markup":"<p>Additional <a href=\"https://www.dropbox.com/s/2ivv8syqebpqc4p/SUPPORT.pdf?dl=0\" target=\"_blank\">Instructor <strong>Support</strong> Resources</a>.</p> "
    }
