@@ -1,0 +1,97 @@
+[
+   {
+      "id":"0",
+      "name":"Checklist",
+      "markup":"<h1>Checklist</h1><p>Before the course begins, please do the following:</p>"
+   },
+   {
+      "id":"1",
+      "name":"Content",
+      "markup":"<h2>Content</h2><ul><li><a href=\"https://www.dropbox.com/s/igucaerxgcn0vme/CONTENT-update-the-detailed-course-schedule.pdf?dl=0\" target=\"_blank\">Update the Detailed Course Schedule</a> &#40;start here&#41;</li><li><a href=\"https://www.dropbox.com/s/g70fnax8qs09opg/CONTENT-update-instructor-information.pdf?dl=0\" target=\"_blank\">Update Instructor Information</a></li><li><a href=\"https://www.dropbox.com/s/kbwsajpkyfvkmz2/CONTENT-update-links-in-content.pdf?dl=0\" target=\"_blank\">Update Links in Content</a></li><li><a href=\"https://www.dropbox.com/s/gadhj28ae47thd7/CONTENT-fix-broken-links-in-the-table-of-contents.pdf?dl=0\" target=\"_blank\">Fix Broken Links in the Table of Contents</a></li></ul>"
+   },
+   {
+      "id":"2",
+      "name":"Announcements",
+      "markup":"<h1>Heading one</h1><h2>Announcements</h2><ul><li><a href=\"https://www.dropbox.com/s/qnf05m9li5k1p3u/ANNOUNCEMENTS-update-the-welcome-announcement.pdf?dl=0\" target=\"_blank\">Update the Welcome Announcement</a></li></ul>"
+   },
+   {
+      "id":"3",
+      "name":"Live Sessions",
+      "markup":"<h2>Live Sessions</h2> <ul> <li><a href=\"https://www.dropbox.com/s/mzx4ir8hjnn6wbt/WebEx-using-webEx-for-live-sessions.pdf?dl=0\" target=\"_blank\">Using WebEx for Live Sessions</a></li> </ul>"
+   },
+   {
+      "id":"4",
+      "name":"Experiential Learning Project",
+      "markup":"<h2>Experiential Learning Project</h2> <p>If your course includes an experiential learning project, use this set of slides in your first live session. It includes the main points you should cover to introduce your course and the experiential learning project. <strong>Note:</strong> You need to customize the content in these slides to your course and your experiential learning project.</p> <p>Follow the guides in the<em> Notes</em> section; they indicate when to use share screen in your presentation to provide overviews of course documents and the Riipen platform.</p> <ul> <li> <a href=\"https://www.dropbox.com/s/ssx49s8uyoc5157/Experiential%20Learning%20Project%20Introduction%20V2.pptx?dl=1\" target=\"_blank\">Experiential Learning Project Introduction</a> (PowerPoint download) </li> </ul>"
+   },
+   {
+      "id":"5",
+      "name":"Groups",
+      "markup":"<h2>Groups</h2> <ul> <li><a href=\"https://www.dropbox.com/s/xtbvn94zhgh0fot/GROUPS-check-groups-and-enrolment.pdf?dl=0\" target=\"_blank\">Check Groups and Enrolment</a></li> </ul>"
+   },
+   {
+      "id":"6",
+      "name":"Assignments",
+      "markup":"<h2>Assignments</h2> <ul> <li><a href=\"https://www.dropbox.com/s/im9p1inwyqd8vpa/ASSIGNMENTS-update-assignment-submission-folder-availability-dates.pdf?dl=0\" target=\"_blank\">Update Assignment Submission Folder Availability Dates</a></li> <li>If your course uses Turnitin, you may need to re-enable the settings. In the event that you see &ldquo;<span style=\"color: #990000;\">Error enabling Turnitin&reg;</span>,&rdquo;&nbsp;refer to the following guide:<br/><a href=\"https://www.dropbox.com/s/kj4bgk2o1liz887/TURNITIN-manually-enabling.pdf?dl=0\" target=\"_blank\">Manually Enabling Turnitin</a></li> </ul>"
+   },
+   {
+      "id":"7",
+      "name":"Discussions - No groups",
+      "markup":"<h2>Discussions</h2> <ul> <li><a href=\"https://www.dropbox.com/s/b79d3hpe14rxpef/DISCUSSIONS-make-sure-all-discussions-are-present.pdf?dl=0\" target=\"_blank\">Make Sure All Discussions Are Present</a></li> <li><a href=\"https://www.dropbox.com/s/2yyw3hwxjqy9970/DISCUSSIONS-update-discussion-availability-dates.pdf?dl=0\" target=\"_blank\">Update Discussion Availability Dates</a></li> </ul>"
+   },
+   {
+      "id":"8",
+      "name":"Discussions - Threaded groups",
+      "markup":"<h2>Discussions</h2> <ul> <li><a href=\"https://www.dropbox.com/s/b79d3hpe14rxpef/DISCUSSIONS-make-sure-all-discussions-are-present.pdf?dl=0\" target=\"_blank\">Make Sure All Discussions Are Present</a></li> <li><a href=\"https://www.dropbox.com/s/2yyw3hwxjqy9970/DISCUSSIONS-update-discussion-availability-dates.pdf?dl=0\" target=\"_blank\">Update Discussion Availability Dates</a></li> <li><a href=\"https://www.dropbox.com/s/w3utnzjemgm8tvz/DISCUSSIONS-check-group-discussion-associations-GROUP-TOPIC.pdf?dl=0\" target=\"_blank\">Check Group Discussion Associations GROUP TOPIC</a></li> </ul>"
+   },
+   {
+      "id":"9",
+      "name":"Discussions - Separate topics",
+      "markup":"<h2>Discussions</h2> <ul> <li><a href=\"https://www.dropbox.com/s/b79d3hpe14rxpef/DISCUSSIONS-make-sure-all-discussions-are-present.pdf?dl=0\" target=\"_blank\">Make Sure All Discussions Are Present</a></li> <li><a href=\"https://www.dropbox.com/s/2yyw3hwxjqy9970/DISCUSSIONS-update-discussion-availability-dates.pdf?dl=0\" target=\"_blank\">Update Discussion Availability Dates</a></li> <li><a href=\"https://www.dropbox.com/s/vqd4fr3up0l1pbq/DISCUSSIONS-check-group-discussion-associations.pdf?dl=0\" target=\"_blank\">Check Group Discussion Associations SEPARATE TOPICS</a></li> </ul>"
+   },
+   {
+      "id":"10",
+      "name":"Quizzes",
+      "markup":"<h2>Quizzes</h2> <ul> <li><a href=\"https://www.dropbox.com/s/zae1tcp0qmzj3t5/QUIZZES-update-quiz-availability-dates.pdf?dl=0\" target=\"_blank\">Update Quiz Availability Dates</a></li> <li><a href=\"https://www.dropbox.com/s/njray4gzhj5fyiw/QUIZZES-update-additional-submission-view-dates.pdf?dl=0\" target=\"_blank\">Update Additional Submission View Dates</a> &ndash; <span style=\"background-color: yellow; color: inherit; font-weight: bold;\">VERY IMPORTANT</span>: There is an additional submission view in each quiz that releases the correct answers. If the additional submission view in each quiz is not set correctly for the current term, students will be given the correct answers immediately following their first quiz attempt, prior to the quiz deadline. <strong>Set the additional submission view date in each quiz for the Monday following the quiz deadline, e.g., if the quiz is due March 11 at 11:59 PM, set the additional view for March 12 at 12:01 AM.</strong></li> </ul>"
+   },
+   {
+      "id":"11",
+      "name":"Calendar",
+      "markup":"<h2>Calendar</h2> <ul> <li><a href=\"https://www.dropbox.com/s/qc0oa8f9f7hcgpq/CALENDAR-add-manual-calendar-entries.pdf?dl=0\" target=\"_blank\">Add Manual Calendar Entries</a></li> </ul>"
+   },
+   {
+      "id":"12",
+      "name":"Tracking sheet",
+      "markup":"<h2>Tracking Sheet</h2> <p>If you would like any changes or updates to be reflected in the Master Shell of the course and, therefore, the next course offering, please use the Tracking Sheet to indicate those changes.</p> <p>To access the Tracking Sheet, go to the <em>Course Updates Track Changes</em> module in <strong>Content</strong> and click <strong>Tracking Sheet Information</strong>.</p> <p>Please be sure to <strong>submit your Tracking Sheet on time</strong>.</p>"
+   },
+   {
+      "id":"13",
+      "name":"Course Facilitation",
+      "markup":"<h1>Course Facilitation</h1> <p>During the course, make use of the following facilitation resources:</p> "
+   },
+   {
+      "id":"14",
+      "name":"Grading",
+      "markup":"<h2>Grading</h2> <ul> <li><a href=\"https://www.dropbox.com/s/yg1sd9rqnhmk37w/GRADING-entering-grades.pdf?dl=0\" target=\"_blank\">Entering Grades</a></li> <li><a href=\"https://www.dropbox.com/s/d73anxtutk1r5ry/GRADING-grading-assignments.pdf?dl=0\" target=\"_blank\">Grading Assignments</a></li> <li><a href=\"https://www.dropbox.com/s/xw1gkgh9xn24fdd/GRADING-grading-discussions.pdf?dl=0\" target=\"_blank\">Grading Discussions</a></li> </ul>"
+   },
+   {
+      "id":"15",
+      "name":"Video Notes",
+      "markup":"<h2>Video Notes</h2> <p>A video note is a short video clip of yourself that can be shared with students in Avenue to Learn. Video notes are created using your computer&rsquo;s webcam and Avenue to Learn&rsquo;s built-in media recording tool. A video note can be added using any HTML editor with the <strong>Insert Stuff </strong>button &ndash; <img src=\"https://www.dropbox.com/s/w2raeyodi1w1ywq/insert-stuff-button.png?raw=1\" alt=\"insert stuff\" />.</p> <p>Common places video notes are supported include Announcements, Assignment feedback, and Discussions.</p> <ul> <li><a href=\"https://www.dropbox.com/s/dfcac95uxhajgt1/VIDEO-NOTES-creating-a-video-note.pdf?dl=0\" target=\"_blank\">Creating a Video Note</a></li> </ul>"
+   },
+   {
+      "id":"16",
+      "name":"Class Progress",
+      "markup":"<h2>Class Progress</h2> <p>Use the Class Progress tool to view a summary of each student’s grades, completion of learning objectives, access of content topics, participation in discussions, assignment submissions, quiz submissions, checklist completion, survey responses, and login history.</p> <ul> <li><a href=\"https://www.dropbox.com/s/b4x88y1cdntkr6q/CLASS-PROGRESS-checking-class-progress.pdf?dl=0\" target=\"_blank\">Checking Class Progress</a></li> </ul>"
+   },
+   {
+      "id":"17",
+      "name":"Chat",
+      "markup":"<h2>Chat</h2> <p>The Avenue to Learn Chat tool is a <strong>text-based</strong>, <strong>synchronous</strong> communication tool. <strong>General chats</strong> exist only within the course shell in which they are created, and are available to all users in the course shell, regardless of role.</p> <p>Communication within a general chat is automatically recorded and can be accessed by all users in the course, whether they have participated in the chat session or not. <strong>Only users with instructor access can create and delete general chats</strong>.</p> <ul> <li><a href=\"https://www.dropbox.com/s/qw2pty2wznq2har/CHAT-using-the-chat-tool.pdf?dl=0\" target=\"_blank\">Using the Chat Tool</a></li> </ul>"
+   },
+   {
+      "id":"18",
+      "name":"Support",
+      "markup":"<p>Additional <a href=\"https://www.dropbox.com/s/2ivv8syqebpqc4p/SUPPORT.pdf?dl=0\" target=\"_blank\">Instructor <strong>Support</strong> Resources</a>.</p> "
+   }
+]
