@@ -38,16 +38,16 @@
       "id":"7",
       "name":"Discussions - No groups",
       "markup":"<h2>Discussions</h2> <ul> <li><a href=\"https://www.dropbox.com/s/b79d3hpe14rxpef/DISCUSSIONS-make-sure-all-discussions-are-present.pdf?dl=0\" target=\"_blank\">Make Sure All Discussions Are Present</a></li> <li><a href=\"https://www.dropbox.com/s/2yyw3hwxjqy9970/DISCUSSIONS-update-discussion-availability-dates.pdf?dl=0\" target=\"_blank\">Update Discussion Availability Dates</a></li> </ul>"
-   },
+   },   
    {
       "id":"8",
       "name":"Discussions - Threaded groups",
-      "markup":"<h2>Discussions</h2> <ul> <li><a href=\"https://www.dropbox.com/s/b79d3hpe14rxpef/DISCUSSIONS-make-sure-all-discussions-are-present.pdf?dl=0\" target=\"_blank\">Make Sure All Discussions Are Present</a></li> <li><a href=\"https://www.dropbox.com/s/2yyw3hwxjqy9970/DISCUSSIONS-update-discussion-availability-dates.pdf?dl=0\" target=\"_blank\">Update Discussion Availability Dates</a></li> <li><a href=\"https://www.dropbox.com/s/w3utnzjemgm8tvz/DISCUSSIONS-check-group-discussion-associations-GROUP-TOPIC.pdf?dl=0\" target=\"_blank\">Check Group Discussion Associations GROUP TOPIC</a></li> </ul>"
+      "markup":"<h2>Discussions - Threaded groups</h2> <ul> <li><a href=\"https://www.dropbox.com/s/b79d3hpe14rxpef/DISCUSSIONS-make-sure-all-discussions-are-present.pdf?dl=0\" target=\"_blank\">Make Sure All Discussions Are Present</a></li> <li><a href=\"https://www.dropbox.com/s/2yyw3hwxjqy9970/DISCUSSIONS-update-discussion-availability-dates.pdf?dl=0\" target=\"_blank\">Update Discussion Availability Dates</a></li> <li><a href=\"https://www.dropbox.com/s/w3utnzjemgm8tvz/DISCUSSIONS-check-group-discussion-associations-GROUP-TOPIC.pdf?dl=0\" target=\"_blank\">Check Group Discussion Associations GROUP TOPIC</a></li> </ul>"
    },
    {
       "id":"9",
       "name":"Discussions - Separate topics",
-      "markup":"<h2>Discussions</h2> <ul> <li><a href=\"https://www.dropbox.com/s/b79d3hpe14rxpef/DISCUSSIONS-make-sure-all-discussions-are-present.pdf?dl=0\" target=\"_blank\">Make Sure All Discussions Are Present</a></li> <li><a href=\"https://www.dropbox.com/s/2yyw3hwxjqy9970/DISCUSSIONS-update-discussion-availability-dates.pdf?dl=0\" target=\"_blank\">Update Discussion Availability Dates</a></li> <li><a href=\"https://www.dropbox.com/s/vqd4fr3up0l1pbq/DISCUSSIONS-check-group-discussion-associations.pdf?dl=0\" target=\"_blank\">Check Group Discussion Associations SEPARATE TOPICS</a></li> </ul>"
+      "markup":"<h2>Discussions - Separate topics</h2> <ul> <li><a href=\"https://www.dropbox.com/s/b79d3hpe14rxpef/DISCUSSIONS-make-sure-all-discussions-are-present.pdf?dl=0\" target=\"_blank\">Make Sure All Discussions Are Present</a></li> <li><a href=\"https://www.dropbox.com/s/2yyw3hwxjqy9970/DISCUSSIONS-update-discussion-availability-dates.pdf?dl=0\" target=\"_blank\">Update Discussion Availability Dates</a></li> <li><a href=\"https://www.dropbox.com/s/vqd4fr3up0l1pbq/DISCUSSIONS-check-group-discussion-associations.pdf?dl=0\" target=\"_blank\">Check Group Discussion Associations SEPARATE TOPICS</a></li> </ul>"
    },
    {
       "id":"10",
