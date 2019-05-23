@@ -123,5 +123,60 @@
       "id":"24",
       "name":"Required Materials - Accomodation",
       "markup":"<p>Students who require course materials in an alternative format due to accessibility reasons should contact <a href=\"https://sas.mcmaster.ca/\" target=\"_blank\">Student Accessibility Services<span class=\"sr-only\"> (hyperlink opens in a new tab)</span></a>.</p>"
+   },
+   {
+      "id":"25",
+      "name":"Required Materials - Textbook opening",
+      "markup":"<div class=\"row border-top mb-0 py-2\"><div class=\"col-sm-5 d-flex justify-content-center align-items-center\"> <h2 class=\"mt-0 mb-3 my-sm-1\">Textbook</h2> </div> <div class=\"pt-2 pt-sm-3 col-sm-7\">"
+   },
+   {
+      "id":"26",
+      "name":"Required Materials - Textbook closing",
+      "markup":"<p>Available for purchase at <a href=\"http://www.campusstore.mcmaster.ca/\" target=\"_blank\" rel=\"noopener\">McMaster University&rsquo;s Campus Store<span class=\"sr-only\"> (hyperlink opens in a new tab)</span></a>.</p> </div> </div>"
+   },
+   {
+      "id":"27",
+      "name":"Required Materials - Courseware opening",
+      "markup":"<div class=\"row border-top mb-0 py-2\"> <div class=\"col-sm-5 d-flex justify-content-center align-items-center\"> <h2 class=\"mt-0 mb-3 my-sm-1\">Courseware</h2> </div> <div class=\"pt-2 pt-sm-3 col-sm-7\">"
+   },
+   {
+      "id":"28",
+      "name":"Required Materials - Courseware closing",
+      "markup":"<p>Available for purchase at <a href=\"http://www.campusstore.mcmaster.ca/\" target=\"_blank\" rel=\"noopener\">McMaster University&rsquo;s Campus Store<span class=\"sr-only\"> (hyperlink opens in a new tab)</span></a>.</p> </div> </div>"
+   },
+   {
+      "id":"29",
+      "name":"Required Materials - Book chapters opening",
+      "markup":"<div class=\"row border-top mb-0 py-2 py-3\">\r\n<div class=\"col-sm-5 d-flex justify-content-center align-items-center\">\r\n<h2 class=\"mt-0 mb-3 my-sm-1\">Book Chapters</h2>\r\n</div>\r\n<div class=\"pt-2 pt-sm-3 col-sm-7\">"
+   },
+   {
+      "id":"30",
+      "name":"Required Materials - Book chapters closing",
+      "markup":"<p>Book chapters are available for free access via McMaster library.&nbsp; Use the catalogue URL to download specific chapters:&nbsp; <a href=\"http://catalogue.mcmaster.ca/catalogue/Record/2718303\" target=\"_blank\" rel=\"noopener\">http://catalogue.mcmaster.ca/catalogue/Record/2718303<span class=\"sr-only\"> (hyperlink opens in a new tab)</span></a>.</p>\r\n</div>\r\n</div>"
+   },
+   {
+      "id":"31",
+      "name":"Required Materials - Articles",
+      "markup":"<p>Book chapters are available for free access via McMaster library.&nbsp; Use the catalogue URL to download specific chapters:&nbsp; <a href=\"http://catalogue.mcmaster.ca/catalogue/Record/2718303\" target=\"_blank\" rel=\"noopener\">http://catalogue.mcmaster.ca/catalogue/Record/2718303<span class=\"sr-only\"> (hyperlink opens in a new tab)</span></a>.</p>\r\n</div>\r\n</div>"
+   },
+   {
+      "id":"32",
+      "name":"Required Materials - Articles and ebooks",
+      "markup":"<div class=\"row border-top mb-0 py-2\">\r\n<div class=\"col-sm-5 d-flex justify-content-center align-items-center\">\r\n<h2 class=\"mt-0 mb-3 my-sm-1\">Articles and eBooks</h2>\r\n</div>\r\n<div class=\"pt-2 pt-sm-3 col-sm-7\">\r\n<p>The study materials for this course include articles from scholarly journals and/or eBooks that are available through the McMaster Library.</p>\r\n<p>To access a journal article, use the citation information listed on the module pages to locate the article through the Online Journals tab of the <a href=\"https://library.mcmaster.ca/\" target=\"_blank\" rel=\"noopener\">McMaster Library Homepage<span class=\"sr-only\"> (hyperlink opens in a new tab)</span></a>.</p>\r\n<p>If you are new to the McMaster Library and require further information on finding journal articles, the library has an extensive set of <a href=\"https://library.mcmaster.ca/research/how-library-stuff-works\" target=\"_blank\" rel=\"noopener\">How Library Stuff Works<span class=\"sr-only\"> (hyperlink opens in a new tab)</span></a> videos that provide detailed instructions.</p>\r\n<p>To access an eBook, search for the title of the eBook using the search function on the <a href=\"https://library.mcmaster.ca/\" target=\"_blank\" rel=\"noopener\">McMaster Library Homepage<span class=\"sr-only\"> (hyperlink opens in a new tab)</span></a>.</p>\r\n<p>In order to view the full text of a journal article and/or access an eBook, you will need to log in to the library system using your MAC ID and password.</p>\r\n</div>\r\n</div>"
+   },
+   {
+      "id":"33",
+      "name":"Required Materials - Lynda.com",
+      "markup":"<div class=\"row border-top mb-0 py-2\">\r\n<div class=\"col-sm-5 d-flex justify-content-center align-items-center\">\r\n<h2 class=\"mt-0 mb-3 my-sm-1\">Lynda.com</h2>\r\n</div>\r\n<div class=\"pt-2 pt-sm-3 col-sm-7\">\r\n<p>This course contains videos and resources from Lynda.com. To access the content, you are required to create a profile. Click the &ldquo;Log In to lynda.com&rdquo; button on <a href=\"https://www.mcmaster.ca/uts/lynda/\" target=\"_blank\" rel=\"noopener\">Lynda.mcmaster.ca<span class=\"sr-only\"> (hyperlink opens in a new tab)</span></a>, enter your MAC ID and Password, and follow the prompts provided.</p>\r\n<p>If you already have a profile, click the &ldquo;Log In to lynda.com&rdquo; button on <a href=\"https://www.mcmaster.ca/uts/lynda/\" target=\"_blank\" rel=\"noopener\">Lynda.mcmaster.ca<span class=\"sr-only\"> (hyperlink opens in a new tab)</span></a> and enter your MAC ID and password to search for and access content.</p>\r\n</div>\r\n</div>"
+   },
+   {
+      "id":"34",
+      "name":"Required Materials - Microsoft Office 365",
+      "markup":"<div class=\"row border-top mb-0 py-2\">\r\n<div class=\"col-sm-5 d-flex justify-content-center align-items-center\">\r\n<h2 class=\"mt-0 mb-3 my-sm-1\">Microsoft Office 365</h2>\r\n</div>\r\n<div class=\"pt-2 pt-sm-3 col-sm-7\">\r\n<p>Microsoft Office 365 is available for all McMaster students. It is a cloud-based software suite that includes versions of Word, Excel, and PowerPoint.</p>\r\n<p>For more information and how to download this software, go to <a href=\"https://www.mcmaster.ca/uts/licensing/msstudents.html\" target=\"_blank\" rel=\"noopener\">Microsoft Office 365 for Students<span class=\"sr-only\"> (hyperlink opens in a new tab)</span></a>.</p>\r\n</div>\r\n</div>"
+   },
+   {
+      "id":"35",
+      "name":"Required Materials - WebEx",
+      "markup":"<div class=\"row border-top mb-0 py-2\">\r\n<div class=\"col-sm-5 d-flex justify-content-center align-items-center\">\r\n<h2 class=\"mt-0 mb-3 my-sm-1\">WebEx</h2>\r\n</div>\r\n<div class=\"pt-2 pt-sm-3 col-sm-7\">\r\n<p>This course may include live online sessions using WebEx videoconferencing software (see the <strong>Detailed Course Schedule </strong>for dates and times).</p>\r\n<p>To participate in these sessions, you will require:</p>\r\n<ul>\r\n<li>A stable internet connection</li>\r\n<li>A speaker or headphones</li>\r\n<li>A working microphone</li>\r\n<li>A webcam (optional)</li>\r\n</ul>\r\n<p>For more information about using WebEx, please review <a href=\"https://wiki.mcmaster.ca/webex/resources_for_students\" target=\"_blank\" rel=\"noopener\">McMaster WebEx Support Wiki &ndash; Resources For Students<span class=\"sr-only\"> (hyperlink opens in a new tab)</span></a></p>\r\n<p>Your instructor will record all WebEx sessions. If you are unable to attend a session, your instructor will provide you access to the recording.</p>\r\n</div>\r\n</div>"
    }
 ]
