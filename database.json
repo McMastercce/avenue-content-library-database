@@ -113,5 +113,15 @@
       "id":"22",
       "name":"Reflection",
       "markup":"<h2>Reflection</h2> <p>Reflect on your practice and note what worked during the delivery of the course. If there are any changes that could make the facilitation more effective for future course deliveries, please share your ideas with the Program Manager.</p>"
+   },
+   {
+      "id":"23",
+      "name":"Required Materials - Online orders and bookstore",
+      "markup":"<p>Online orders are the preferred method of ordering any required print materials (telephone orders are no longer accepted at the bookstore). If you wish to visit the main campus to purchase your material from the bookstore, we strongly recommend you call first to see if your course materials are in stock.</p> <p>The bookstore has provided detailed information for using the online ordering system, and shipping details. We recommend you view this information before you attempt to place your order. Proceed to <a href=\"https://www.mcmastercce.ca/textbooks\" target=\"_blank\">Course Materials<span class=\"sr-only\"> (hyperlink opens in a new tab)</span></a>.</p>"
+   },
+   {
+      "id":"24",
+      "name":"Required Materials - Accomodation",
+      "markup":"<p>Students who require course materials in an alternative format due to accessibility reasons should contact <a href=\"https://sas.mcmaster.ca/\" target=\"_blank\">Student Accessibility Services<span class=\"sr-only\"> (hyperlink opens in a new tab)</span></a>.</p>"
    }
 ]
