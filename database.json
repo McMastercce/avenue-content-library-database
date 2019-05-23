@@ -127,12 +127,12 @@
    {
       "id":"25",
       "name":"Required Materials - Textbook opening",
-      "markup":"<div class=\"row border-top mb-0 py-2\"><div class=\"col-sm-5 d-flex justify-content-center align-items-center\"> <h2 class=\"mt-0 mb-3 my-sm-1\">Textbook</h2> </div> <div class=\"pt-2 pt-sm-3 col-sm-7\">"
+      "markup":"<div class=\"row border-top mb-0 py-2\"> <div class=\"col-sm-5 d-flex justify-content-center align-items-center\"> <h2 class=\"mt-0 mb-3 my-sm-1\">Textbook</h2> </div> <div class=\"pt-2 pt-sm-3 col-sm-7\">"
    },
    {
       "id":"26",
       "name":"Required Materials - Textbook closing",
-      "markup":"<p>Available for purchase at <a href=\"http://www.campusstore.mcmaster.ca/\" target=\"_blank\" rel=\"noopener\">McMaster University&rsquo;s Campus Store<span class=\"sr-only\"> (hyperlink opens in a new tab)</span></a>.</p> </div> </div>"
+      "markup":"<p>Available for purchase at <a href=\"http://www.campusstore.mcmaster.ca/\" target=\"_blank\">McMaster University&rsquo;s Campus Store<span class=\"sr-only\"> (hyperlink opens in a new tab)</span></a>.</p> </div> </div>"
    },
    {
       "id":"27",
