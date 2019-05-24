@@ -157,7 +157,7 @@
    {
       "id":"31",
       "name":"Required Materials - Articles",
-      "markup":"<p>Book chapters are available for free access via McMaster library.&nbsp; Use the catalogue URL to download specific chapters:&nbsp; <a href=\"http://catalogue.mcmaster.ca/catalogue/Record/2718303\" target=\"_blank\" rel=\"noopener\">http://catalogue.mcmaster.ca/catalogue/Record/2718303<span class=\"sr-only\"> (hyperlink opens in a new tab)</span></a>.</p>\r\n</div>\r\n</div>"
+      "markup":"<div class=\"row border-top mb-0 py-2\"> <div class=\"col-sm-5 d-flex justify-content-center align-items-center\"> <h2 class=\"mt-0 mb-3 my-sm-1\">Articles</h2> </div> <div class=\"pt-2 pt-sm-3 col-sm-7\"> <p>Specified in each module.</p> </div> </div>"
    },
    {
       "id":"32",
