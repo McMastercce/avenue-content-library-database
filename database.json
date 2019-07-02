@@ -6,176 +6,181 @@
    },
    {
       "id":"1",
-      "name":"Content",
-      "markup":"<h2>Content</h2><ul><li><a href=\"https://www.dropbox.com/s/igucaerxgcn0vme/CONTENT-update-the-detailed-course-schedule.pdf?dl=0\" target=\"_blank\">Update the Detailed Course Schedule</a> &#40;start here&#41;</li><li><a href=\"https://www.dropbox.com/s/g70fnax8qs09opg/CONTENT-update-instructor-information.pdf?dl=0\" target=\"_blank\">Update Instructor Information</a></li><li><a href=\"https://www.dropbox.com/s/kbwsajpkyfvkmz2/CONTENT-update-links-in-content.pdf?dl=0\" target=\"_blank\">Update Links in Content</a></li><li><a href=\"https://www.dropbox.com/s/gadhj28ae47thd7/CONTENT-fix-broken-links-in-the-table-of-contents.pdf?dl=0\" target=\"_blank\">Fix Broken Links in the Table of Contents</a></li></ul>"
+      "name":"Content - before",
+      "markup":"<h2>Content</h2> <ul> <li><a href=\"https://www.dropbox.com/s/igucaerxgcn0vme/CONTENT-update-the-detailed-course-schedule.pdf?dl=0\" target=\"_blank\" rel=\"noopener\">Update the Detailed Course Schedule</a> (start here)</li> <li><a href=\"https://www.dropbox.com/s/g70fnax8qs09opg/CONTENT-update-instructor-information.pdf?dl=0\" target=\"_blank\" rel=\"noopener\">Update Instructor Information</a></li> </ul>"
    },
    {
       "id":"2",
+      "name":"Content - during",
+      "markup":"<h2>Content</h2> <ul> <li><a href=\"https://www.dropbox.com/s/kbwsajpkyfvkmz2/CONTENT-update-links-in-content.pdf?dl=0\" target=\"_blank\">Update Links in Content</a></li> <li><a href=\"https://www.dropbox.com/s/gadhj28ae47thd7/CONTENT-fix-broken-links-in-the-table-of-contents.pdf?dl=0\" target=\"_blank\">Fix Broken Links in the Table of Contents</a></li> </ul> "
+   },
+   {
+      "id":"3",
       "name":"Announcements",
       "markup":"<h2>Announcements</h2><ul><li><a href=\"https://www.dropbox.com/s/qnf05m9li5k1p3u/ANNOUNCEMENTS-update-the-welcome-announcement.pdf?dl=0\" target=\"_blank\">Update the Welcome Announcement</a></li></ul>"
    },
    {
-      "id":"3",
+      "id":"4",
       "name":"Live Sessions",
       "markup":"<h2>Live Sessions</h2> <ul> <li><a href=\"https://www.dropbox.com/s/mzx4ir8hjnn6wbt/WebEx-using-webEx-for-live-sessions.pdf?dl=0\" target=\"_blank\">Using WebEx for Live Sessions</a></li> </ul>"
    },
    {
-      "id":"4",
+      "id":"5",
       "name":"Experiential Learning Project",
       "markup":"<h2>Experiential Learning Project</h2> <p>This course includes an experiential learning project.</p> <p>Review the instructor&rsquo;s tasks in this document to manage and lead your students successfully towards completion of this project.</p> <ul> <li><a href=\"https://www.dropbox.com/s/nn4acbu63wdxb3p/Instructor_Tasks-Responsibilities-Timelines%20%28final%29.docx?dl=0\" target=\"_blank\">Experiential Learning Project (ELP): Before, During, &amp; After for Instructors</a></li> </ul> <p>Use this set of slides in your first live session; it includes the main points you should cover to introduce your course and the experiential learning project.&nbsp;<strong>Note:</strong>&nbsp;You need to customize the content in these slides for your course and your experiential learning project.</p> <p>Follow the guides in the&nbsp;<em>Notes</em>&nbsp;section; they indicate when to use share screen in your presentation to provide overviews of course documents and the Riipen platform.</p> <ul> <li><a href=\"https://www.dropbox.com/s/ssx49s8uyoc5157/Experiential%20Learning%20Project%20Introduction%20V2.pptx?dl=1\">Experiential Learning Project Introduction</a>&nbsp;(PowerPoint download)</li> </ul>"
    },
    {
-      "id":"5",
+      "id":"6",
       "name":"Groups",
       "markup":"<h2>Groups</h2> <ul> <li><a href=\"https://www.dropbox.com/s/xtbvn94zhgh0fot/GROUPS-check-groups-and-enrolment.pdf?dl=0\" target=\"_blank\">Check Groups and Enrolment</a></li> </ul>"
    },
    {
-      "id":"6",
+      "id":"7",
       "name":"Assignments",
       "markup":"<h2>Assignments</h2> <ul> <li><a href=\"https://www.dropbox.com/s/im9p1inwyqd8vpa/ASSIGNMENTS-update-assignment-submission-folder-availability-dates.pdf?dl=0\" target=\"_blank\">Update Assignment Submission Folder Availability Dates</a></li> <li>If your course uses Turnitin, you may need to re-enable the settings. In the event that you see &ldquo;<span style=\"color: #990000;\">Error enabling Turnitin&reg;</span>,&rdquo;&nbsp;refer to the following guide:<br/><a href=\"https://www.dropbox.com/s/kj4bgk2o1liz887/TURNITIN-manually-enabling.pdf?dl=0\" target=\"_blank\">Manually Enabling Turnitin</a></li> </ul>"
    },
    {
-      "id":"7",
+      "id":"8",
       "name":"Discussions note to LST",
       "markup":"<p style=\"border-style: solid; border-color:#990000; padding: 10px;\"><span style=\"color: #ea1720;\"><strong>Note to integrator:</strong></span> There are three options available for <strong>Discussions</strong>: individual, threaded groups, and separate topics. Remove the ones that don't apply as well as this note.</p>"
    },
    {
-      "id":"8",
+      "id":"9",
       "name":"Discussions - No groups",
       "markup":"<h2>Discussions</h2> <ul> <li><a href=\"https://www.dropbox.com/s/b79d3hpe14rxpef/DISCUSSIONS-make-sure-all-discussions-are-present.pdf?dl=0\" target=\"_blank\">Make Sure All Discussions Are Present</a></li> <li><a href=\"https://www.dropbox.com/s/2yyw3hwxjqy9970/DISCUSSIONS-update-discussion-availability-dates.pdf?dl=0\" target=\"_blank\">Update Discussion Availability Dates</a></li> </ul>"
    },   
    {
-      "id":"9",
+      "id":"10",
       "name":"Discussions - Threaded groups",
       "markup":"<h2>Discussions - Threaded groups</h2> <ul> <li><a href=\"https://www.dropbox.com/s/b79d3hpe14rxpef/DISCUSSIONS-make-sure-all-discussions-are-present.pdf?dl=0\" target=\"_blank\">Make Sure All Discussions Are Present</a></li> <li><a href=\"https://www.dropbox.com/s/2yyw3hwxjqy9970/DISCUSSIONS-update-discussion-availability-dates.pdf?dl=0\" target=\"_blank\">Update Discussion Availability Dates</a></li> <li><a href=\"https://www.dropbox.com/s/w3utnzjemgm8tvz/DISCUSSIONS-check-group-discussion-associations-GROUP-TOPIC.pdf?dl=0\" target=\"_blank\">Check Group Discussion Associations GROUP TOPIC</a></li> </ul>"
    },
    {
-      "id":"10",
+      "id":"11",
       "name":"Discussions - Separate topics",
       "markup":"<h2>Discussions - Separate topics</h2> <ul> <li><a href=\"https://www.dropbox.com/s/b79d3hpe14rxpef/DISCUSSIONS-make-sure-all-discussions-are-present.pdf?dl=0\" target=\"_blank\">Make Sure All Discussions Are Present</a></li> <li><a href=\"https://www.dropbox.com/s/2yyw3hwxjqy9970/DISCUSSIONS-update-discussion-availability-dates.pdf?dl=0\" target=\"_blank\">Update Discussion Availability Dates</a></li> <li><a href=\"https://www.dropbox.com/s/vqd4fr3up0l1pbq/DISCUSSIONS-check-group-discussion-associations.pdf?dl=0\" target=\"_blank\">Check Group Discussion Associations SEPARATE TOPICS</a></li> </ul>"
    },
    {
-      "id":"11",
+      "id":"12",
       "name":"Quizzes",
       "markup":"<h2>Quizzes</h2> <ul> <li><a href=\"https://www.dropbox.com/s/8m603u2skn7ng9s/QUIZZES-activate.pdf?dl=0\" target=\"_blank\">Activate quizzes</a> &ndash; <span style=\"background-color: yellow; color: inherit; font-weight: bold;\">VERY IMPORTANT</span>: Avenue sets quizzes to inactive by default. You must active quizzes for students to access them.</li> <li><a href=\"https://www.dropbox.com/s/zae1tcp0qmzj3t5/QUIZZES-update-quiz-availability-dates.pdf?dl=0\" target=\"_blank\">Update Quiz Availability Dates</a></li> <li><a href=\"https://www.dropbox.com/s/njray4gzhj5fyiw/QUIZZES-update-additional-submission-view-dates.pdf?dl=0\" target=\"_blank\">Update Additional Submission View Dates</a> &ndash; <span style=\"background-color: yellow; color: inherit; font-weight: bold;\">VERY IMPORTANT</span>: There is an additional submission view in each quiz that releases the correct answers. If the additional submission view in each quiz is not set correctly for the current term, students will be given the correct answers immediately following their first quiz attempt, prior to the quiz deadline. <strong>Set the additional submission view date in each quiz for the Monday following the quiz deadline, e.g., if the quiz is due March 11 at 11:59 PM, set the additional view for March 12 at 12:01 AM.</strong></li> </ul>"
    },
    {
-      "id":"12",
+      "id":"13",
       "name":"Calendar",
       "markup":"<h2>Calendar</h2> <ul> <li><a href=\"https://www.dropbox.com/s/qc0oa8f9f7hcgpq/CALENDAR-add-manual-calendar-entries.pdf?dl=0\" target=\"_blank\">Add Manual Calendar Entries</a></li> </ul>"
    },
    {
-      "id":"13",
+      "id":"14",
       "name":"Tracking sheet",
       "markup":"<h2>Tracking Sheet</h2> <p>If you would like any changes or updates to be reflected in the Master Shell of the course and, therefore, the next course offering, please use the Tracking Sheet to indicate those changes.</p> <p>To access the Tracking Sheet, go to the <em>Course Updates Track Changes</em> module in <strong>Content</strong> and click <strong>Tracking Sheet Information</strong>.</p> <p>Please be sure to <strong>submit your Tracking Sheet on time</strong>.</p>"
    },
    {
-      "id":"14",
+      "id":"15",
       "name":"Course Facilitation",
       "markup":"<h1>Course Facilitation</h1> <p>During the course, make use of the following facilitation resources:</p> "
    },
    {
-      "id":"15",
+      "id":"16",
       "name":"Grading",
       "markup":"<h2>Grading</h2> <ul> <li><a href=\"https://www.dropbox.com/s/yg1sd9rqnhmk37w/GRADING-entering-grades.pdf?dl=0\" target=\"_blank\">Entering Grades</a></li> <li><a href=\"https://www.dropbox.com/s/d73anxtutk1r5ry/GRADING-grading-assignments.pdf?dl=0\" target=\"_blank\">Grading Assignments</a></li> <li><a href=\"https://www.dropbox.com/s/xw1gkgh9xn24fdd/GRADING-grading-discussions.pdf?dl=0\" target=\"_blank\">Grading Discussions</a></li> </ul>"
    },
    {
-      "id":"16",
+      "id":"17",
       "name":"Video Notes",
       "markup":"<h2>Video Notes</h2> <p>A video note is a short video clip of yourself that can be shared with students in Avenue to Learn. Video notes are created using your computer&rsquo;s webcam and Avenue to Learn&rsquo;s built-in media recording tool. A video note can be added using any HTML editor with the <strong>Insert Stuff </strong>button &ndash; <img src=\"https://www.dropbox.com/s/w2raeyodi1w1ywq/insert-stuff-button.png?raw=1\" alt=\"insert stuff\" />.</p> <p>Common places video notes are supported include Announcements, Assignment feedback, and Discussions.</p> <ul> <li><a href=\"https://www.dropbox.com/s/dfcac95uxhajgt1/VIDEO-NOTES-creating-a-video-note.pdf?dl=0\" target=\"_blank\">Creating a Video Note</a></li> </ul>"
    },
    {
-      "id":"17",
+      "id":"18",
       "name":"Class Progress",
       "markup":"<h2>Class Progress</h2> <p>Use the Class Progress tool to view a summary of each student’s grades, completion of learning objectives, access of content topics, participation in discussions, assignment submissions, quiz submissions, checklist completion, survey responses, and login history.</p> <ul> <li><a href=\"https://www.dropbox.com/s/b4x88y1cdntkr6q/CLASS-PROGRESS-checking-class-progress.pdf?dl=0\" target=\"_blank\">Checking Class Progress</a></li> </ul>"
    },
    {
-      "id":"18",
+      "id":"19",
       "name":"Chat",
       "markup":"<h2>Chat</h2> <p>The Avenue to Learn Chat tool is a <strong>text-based</strong>, <strong>synchronous</strong> communication tool. <strong>General chats</strong> exist only within the course shell in which they are created, and are available to all users in the course shell, regardless of role.</p> <p>Communication within a general chat is automatically recorded and can be accessed by all users in the course, whether they have participated in the chat session or not. <strong>Only users with instructor access can create and delete general chats</strong>.</p> <ul> <li><a href=\"https://www.dropbox.com/s/qw2pty2wznq2har/CHAT-using-the-chat-tool.pdf?dl=0\" target=\"_blank\">Using the Chat Tool</a></li> </ul>"
    },
    {
-      "id":"19",
+      "id":"20",
       "name":"Support",
       "markup":"<p>Additional <a href=\"https://www.dropbox.com/s/2ivv8syqebpqc4p/SUPPORT.pdf?dl=0\" target=\"_blank\">Instructor <strong>Support</strong> Resources</a>.</p>"
    },
    {
-      "id":"20",
+      "id":"21",
       "name":"Wrap Up",
       "markup":"<h1>Wrap Up</h1>"
    },
    {
-      "id":"21",
+      "id":"22",
       "name":"Final Grades",
       "markup":"<h2>Final Grades</h2> <p>You are required to submit final calculated grades at the end of the course. Choose <strong>one</strong> of the following options below based on your course structure (if you are unsure, contact the Program Associate).</p> <ul> <li>Option A: <a href=\"https://www.dropbox.com/s/awp05j13n411y6r/loading-avenue-to-learn-grades-in-mosaic.pdf?dl=0\" target=\"_blank\">Loading Avenue to Learn Grades in Mosaic</a></li> <li>Option B: <a href=\"https://www.dropbox.com/s/61x66vx13bfr2a4/manually-entering-grades-in-mosaic.pdf?dl=0\" target=\"_blank\">Manually Entering Grades in Mosaic</a></li> </ul>"
    },
    {
-      "id":"22",
+      "id":"23",
       "name":"Reflection",
       "markup":"<h2>Reflection</h2> <p>Reflect on your practice and note what worked during the delivery of the course. If there are any changes that could make the facilitation more effective for future course deliveries, please share your ideas with the Program Manager.</p>"
    },
    {
-      "id":"23",
+      "id":"24",
       "name":"Required Materials - Online orders and bookstore",
       "markup":"<p>Online orders are the preferred method of ordering any required print materials (telephone orders are no longer accepted at the bookstore). If you wish to visit the main campus to purchase your material from the bookstore, we strongly recommend you call first to see if your course materials are in stock.</p> <p>The bookstore has provided detailed information for using the online ordering system, and shipping details. We recommend you view this information before you attempt to place your order. Proceed to <a href=\"https://www.mcmastercce.ca/textbooks\" target=\"_blank\">Course Materials<span class=\"sr-only\"> (hyperlink opens in a new tab)</span></a>.</p>"
    },
    {
-      "id":"24",
+      "id":"25",
       "name":"Required Materials - Accomodation",
       "markup":"<p>Students who require course materials in an alternative format due to accessibility reasons should contact <a href=\"https://sas.mcmaster.ca/\" target=\"_blank\">Student Accessibility Services<span class=\"sr-only\"> (hyperlink opens in a new tab)</span></a>.</p>"
    },
    {
-      "id":"25",
+      "id":"26",
       "name":"Required Materials - Textbook opening",
       "markup":"<div class=\"row border-top mb-0 py-2\"> <div class=\"col-sm-5 d-flex justify-content-center align-items-center\"> <h2 class=\"mt-0 mb-3 my-sm-1\">Textbook</h2> </div> <div class=\"pt-2 pt-sm-3 col-sm-7\">"
    },
    {
-      "id":"26",
+      "id":"27",
       "name":"Required Materials - Textbook closing",
       "markup":"<p>Available for purchase at <a href=\"http://www.campusstore.mcmaster.ca/\" target=\"_blank\">McMaster University&rsquo;s Campus Store<span class=\"sr-only\"> (hyperlink opens in a new tab)</span></a>.</p> </div> </div>"
    },
    {
-      "id":"27",
+      "id":"28",
       "name":"Required Materials - Courseware opening",
       "markup":"<div class=\"row border-top mb-0 py-2\"> <div class=\"col-sm-5 d-flex justify-content-center align-items-center\"> <h2 class=\"mt-0 mb-3 my-sm-1\">Courseware</h2> </div> <div class=\"pt-2 pt-sm-3 col-sm-7\">"
    },
    {
-      "id":"28",
+      "id":"29",
       "name":"Required Materials - Courseware closing",
       "markup":"<p>Available for purchase at <a href=\"http://www.campusstore.mcmaster.ca/\" target=\"_blank\" rel=\"noopener\">McMaster University&rsquo;s Campus Store<span class=\"sr-only\"> (hyperlink opens in a new tab)</span></a>.</p> </div> </div>"
    },
    {
-      "id":"29",
+      "id":"30",
       "name":"Required Materials - Book chapters opening",
       "markup":"<div class=\"row border-top mb-0 py-2 py-3\">\r\n<div class=\"col-sm-5 d-flex justify-content-center align-items-center\">\r\n<h2 class=\"mt-0 mb-3 my-sm-1\">Book Chapters</h2>\r\n</div>\r\n<div class=\"pt-2 pt-sm-3 col-sm-7\">"
    },
    {
-      "id":"30",
+      "id":"31",
       "name":"Required Materials - Book chapters closing",
       "markup":"<p>Book chapters are available for free access via McMaster library.&nbsp; Use the catalogue URL to download specific chapters:&nbsp; <a href=\"http://catalogue.mcmaster.ca/catalogue/Record/2718303\" target=\"_blank\" rel=\"noopener\">http://catalogue.mcmaster.ca/catalogue/Record/2718303<span class=\"sr-only\"> (hyperlink opens in a new tab)</span></a>.</p>\r\n</div>\r\n</div>"
    },
    {
-      "id":"31",
+      "id":"32",
       "name":"Required Materials - Articles",
       "markup":"<div class=\"row border-top mb-0 py-2\"> <div class=\"col-sm-5 d-flex justify-content-center align-items-center\"> <h2 class=\"mt-0 mb-3 my-sm-1\">Articles</h2> </div> <div class=\"pt-2 pt-sm-3 col-sm-7\"> <p>Specified in each module.</p> </div> </div>"
    },
    {
-      "id":"32",
+      "id":"33",
       "name":"Required Materials - Articles and ebooks",
       "markup":"<div class=\"row border-top mb-0 py-2\">\r\n<div class=\"col-sm-5 d-flex justify-content-center align-items-center\">\r\n<h2 class=\"mt-0 mb-3 my-sm-1\">Articles and eBooks</h2>\r\n</div>\r\n<div class=\"pt-2 pt-sm-3 col-sm-7\">\r\n<p>The study materials for this course include articles from scholarly journals and/or eBooks that are available through the McMaster Library.</p>\r\n<p>To access a journal article, use the citation information listed on the module pages to locate the article through the Online Journals tab of the <a href=\"https://library.mcmaster.ca/\" target=\"_blank\" rel=\"noopener\">McMaster Library Homepage<span class=\"sr-only\"> (hyperlink opens in a new tab)</span></a>.</p>\r\n<p>If you are new to the McMaster Library and require further information on finding journal articles, the library has an extensive set of <a href=\"https://library.mcmaster.ca/research/how-library-stuff-works\" target=\"_blank\" rel=\"noopener\">How Library Stuff Works<span class=\"sr-only\"> (hyperlink opens in a new tab)</span></a> videos that provide detailed instructions.</p>\r\n<p>To access an eBook, search for the title of the eBook using the search function on the <a href=\"https://library.mcmaster.ca/\" target=\"_blank\" rel=\"noopener\">McMaster Library Homepage<span class=\"sr-only\"> (hyperlink opens in a new tab)</span></a>.</p>\r\n<p>In order to view the full text of a journal article and/or access an eBook, you will need to log in to the library system using your MAC ID and password.</p>\r\n</div>\r\n</div>"
    },
    {
-      "id":"33",
+      "id":"34",
       "name":"Required Materials - Lynda.com",
       "markup":"<div class=\"row border-top mb-0 py-2\">\r\n<div class=\"col-sm-5 d-flex justify-content-center align-items-center\">\r\n<h2 class=\"mt-0 mb-3 my-sm-1\">Lynda.com</h2>\r\n</div>\r\n<div class=\"pt-2 pt-sm-3 col-sm-7\">\r\n<p>This course contains videos and resources from Lynda.com. To access the content, you are required to create a profile. Click the &ldquo;Log In to lynda.com&rdquo; button on <a href=\"https://www.mcmaster.ca/uts/lynda/\" target=\"_blank\" rel=\"noopener\">Lynda.mcmaster.ca<span class=\"sr-only\"> (hyperlink opens in a new tab)</span></a>, enter your MAC ID and Password, and follow the prompts provided.</p>\r\n<p>If you already have a profile, click the &ldquo;Log In to lynda.com&rdquo; button on <a href=\"https://www.mcmaster.ca/uts/lynda/\" target=\"_blank\" rel=\"noopener\">Lynda.mcmaster.ca<span class=\"sr-only\"> (hyperlink opens in a new tab)</span></a> and enter your MAC ID and password to search for and access content.</p>\r\n</div>\r\n</div>"
    },
    {
-      "id":"34",
+      "id":"35",
       "name":"Required Materials - Microsoft Office 365",
       "markup":"<div class=\"row border-top mb-0 py-2\">\r\n<div class=\"col-sm-5 d-flex justify-content-center align-items-center\">\r\n<h2 class=\"mt-0 mb-3 my-sm-1\">Microsoft Office 365</h2>\r\n</div>\r\n<div class=\"pt-2 pt-sm-3 col-sm-7\">\r\n<p>Microsoft Office 365 is available for all McMaster students. It is a cloud-based software suite that includes versions of Word, Excel, and PowerPoint.</p>\r\n<p>For more information and how to download this software, go to <a href=\"https://www.mcmaster.ca/uts/licensing/msstudents.html\" target=\"_blank\" rel=\"noopener\">Microsoft Office 365 for Students<span class=\"sr-only\"> (hyperlink opens in a new tab)</span></a>.</p>\r\n</div>\r\n</div>"
    },
    {
-      "id":"35",
+      "id":"36",
       "name":"Required Materials - WebEx",
       "markup":"<div class=\"row border-top mb-0 py-2\">\r\n<div class=\"col-sm-5 d-flex justify-content-center align-items-center\">\r\n<h2 class=\"mt-0 mb-3 my-sm-1\">WebEx</h2>\r\n</div>\r\n<div class=\"pt-2 pt-sm-3 col-sm-7\">\r\n<p>This course may include live online sessions using WebEx videoconferencing software (see the <strong>Detailed Course Schedule </strong>for dates and times).</p>\r\n<p>To participate in these sessions, you will require:</p>\r\n<ul>\r\n<li>A stable internet connection</li>\r\n<li>A speaker or headphones</li>\r\n<li>A working microphone</li>\r\n<li>A webcam (optional)</li>\r\n</ul>\r\n<p>For more information about using WebEx, please review <a href=\"https://wiki.mcmaster.ca/webex/resources_for_students\" target=\"_blank\" rel=\"noopener\">McMaster WebEx Support Wiki &ndash; Resources For Students<span class=\"sr-only\"> (hyperlink opens in a new tab)</span></a></p>\r\n<p>Your instructor will record all WebEx sessions. If you are unable to attend a session, your instructor will provide you access to the recording.</p>\r\n</div>\r\n</div>"
    }
