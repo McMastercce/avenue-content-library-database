@@ -41,7 +41,7 @@
    },
    {
       "id":"8",
-      "name":"Assignments",
+      "name":"Assignments - Before",
       "markup":"<h2>Assignments</h2> <ul> <li><a href=\"https://www.dropbox.com/s/im9p1inwyqd8vpa/ASSIGNMENTS-update-assignment-submission-folder-availability-dates.pdf?dl=0\" target=\"_blank\">Update Assignment Submission Folder Availability Dates</a></li> <li>If your course uses Turnitin, you may need to re-enable the settings. In the event that you see &ldquo;<span style=\"color: #990000;\">Error enabling Turnitin&reg;</span>,&rdquo;&nbsp;refer to the following guide:<br/><a href=\"https://www.dropbox.com/s/kj4bgk2o1liz887/TURNITIN-manually-enabling.pdf?dl=0\" target=\"_blank\">Manually Enabling Turnitin</a></li> </ul>"
    },
    {
@@ -136,8 +136,8 @@
    },
    {
       "id":"27",
-      "name":"",
-      "markup":"<p>Placeholder</p>"
+      "name":"Announcements - During",
+      "markup":"<h2>Announcements</h2> <ul> <li><a href=\"https://www.dropbox.com/s/ut2m2lcs35di8y5/ANNOUNCEMENTS-posting-a-new-announcement.pdf?dl=0\" target=\"_blank\">Posting a New Announcement</a></li></ul>"
    },
    {
       "id":"28",
