@@ -66,18 +66,18 @@
    },
    {
       "id":"13",
-      "name":"Quizzes - Activate, Dates, Submission Views",
-      "markup":"<h2>Quizzes</h2> <ul> <li><a href=\"https://www.dropbox.com/s/8m603u2skn7ng9s/QUIZZES-activate.pdf?dl=0\" target=\"_blank\">Activate quizzes</a> &ndash; <span style=\"background-color: yellow; color: inherit; font-weight: bold;\">VERY IMPORTANT</span>: Avenue sets quizzes to inactive by default. You must active quizzes for students to access them.</li> <li><a href=\"https://www.dropbox.com/s/zae1tcp0qmzj3t5/QUIZZES-update-quiz-availability-dates.pdf?dl=0\" target=\"_blank\">Update Quiz Availability Dates</a></li> <li><a href=\"https://www.dropbox.com/s/njray4gzhj5fyiw/QUIZZES-update-additional-submission-view-dates.pdf?dl=0\" target=\"_blank\">Update Additional Submission View Dates</a> &ndash; <span style=\"background-color: yellow; color: inherit; font-weight: bold;\">VERY IMPORTANT</span>: There is an additional submission view in each quiz that releases the correct answers. If the additional submission view in each quiz is not set correctly for the current term, students will be given the correct answers immediately following their first quiz attempt, prior to the quiz deadline. <strong>Set the additional submission view date in each quiz for the Monday following the quiz deadline, e.g., if the quiz is due March 11 at 11:59 PM, set the additional view for March 12 at 12:01 AM.</strong></li> </ul>"
+      "name":"Quizzes - Unhide, Dates, Submission Views",
+      "markup":"<h2>Quizzes</h2> <ul> <li><a href=\"https://www.dropbox.com/s/8m603u2skn7ng9s/QUIZZES-activate.pdf?dl=0\" target=\"_blank\">Activate quizzes</a> &ndash; <span style=\"background-color: yellow; color: inherit; font-weight: bold;\">VERY IMPORTANT</span>: Avenue sets quizzes to hidden status by default. You must unhide quizzes for students to access them.</li> <li><a href=\"https://www.dropbox.com/s/zae1tcp0qmzj3t5/QUIZZES-update-quiz-availability-dates.pdf?dl=0\" target=\"_blank\">Update Quiz Availability Dates</a></li> <li><a href=\"https://www.dropbox.com/s/njray4gzhj5fyiw/QUIZZES-update-additional-submission-view-dates.pdf?dl=0\" target=\"_blank\">Update Additional Submission View Dates</a> &ndash; <span style=\"background-color: yellow; color: inherit; font-weight: bold;\">VERY IMPORTANT</span>: There is an additional submission view in each quiz that releases the correct answers. If the additional submission view in each quiz is not set correctly for the current term, students will be given the correct answers immediately following their first quiz attempt, prior to the quiz deadline. <strong>Set the additional submission view date in each quiz for the Monday following the quiz deadline, e.g., if the quiz is due March 11 at 11:59 PM, set the additional view for March 12 at 12:01 AM.</strong></li> </ul>"
    },
    {
       "id":"14",
-      "name":"Quizzes - Activate, Dates",
-      "markup":"<h2>Quizzes</h2> <ul> <li><a href=\"https://www.dropbox.com/s/8m603u2skn7ng9s/QUIZZES-activate.pdf?dl=0\" target=\"_blank\">Activate quizzes</a> &ndash; <span style=\"background-color: yellow; color: inherit; font-weight: bold;\">VERY IMPORTANT</span>: Avenue sets quizzes to inactive by default. You must active quizzes for students to access them.</li> <li><a href=\"https://www.dropbox.com/s/zae1tcp0qmzj3t5/QUIZZES-update-quiz-availability-dates.pdf?dl=0\" target=\"_blank\">Update Quiz Availability Dates</a></li></ul>"
+      "name":"Quizzes - Unhide, Dates",
+      "markup":"<h2>Quizzes</h2> <ul> <li><a href=\"https://www.dropbox.com/s/8m603u2skn7ng9s/QUIZZES-activate.pdf?dl=0\" target=\"_blank\">Activate quizzes</a> &ndash; <span style=\"background-color: yellow; color: inherit; font-weight: bold;\">VERY IMPORTANT</span>: Avenue sets quizzes to hidden status by default. You must unhide quizzes for students to access them.</li> <li><a href=\"https://www.dropbox.com/s/zae1tcp0qmzj3t5/QUIZZES-update-quiz-availability-dates.pdf?dl=0\" target=\"_blank\">Update Quiz Availability Dates</a></li></ul>"
    },
    {
       "id":"15",
-      "name":"Quizzes - Activate",
-      "markup":"<h2>Quizzes</h2> <ul> <li><a href=\"https://www.dropbox.com/s/8m603u2skn7ng9s/QUIZZES-activate.pdf?dl=0\" target=\"_blank\">Activate quizzes</a> &ndash; <span style=\"background-color: yellow; color: inherit; font-weight: bold;\">VERY IMPORTANT</span>: Avenue sets quizzes to inactive by default. You must active quizzes for students to access them.</li> </ul>"
+      "name":"Quizzes - Unhide",
+      "markup":"<h2>Quizzes</h2> <ul> <li><a href=\"https://www.dropbox.com/s/8m603u2skn7ng9s/QUIZZES-activate.pdf?dl=0\" target=\"_blank\">Activate quizzes</a> &ndash; <span style=\"background-color: yellow; color: inherit; font-weight: bold;\">VERY IMPORTANT</span>: Avenue sets quizzes to hidden status by default. You must unhide quizzes for students to access them.</li> </ul>"
    },
    {
       "id":"16",
